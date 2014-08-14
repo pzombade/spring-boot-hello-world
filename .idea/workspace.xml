@@ -28,7 +28,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="10" />
-              <folding />
+              <folding>
+                <marker date="1408040435184" expanded="true" signature="709:889" placeholder="..." />
+                <marker date="1408040435184" expanded="true" signature="730:869" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,7 +55,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="71" max-vertical-offset="969">
               <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
-              <folding />
+              <folding>
+                <element signature="e#0#3662#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,7 +82,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
               <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-              <folding />
+              <folding>
+                <element signature="e#0#1714#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -352,12 +361,12 @@
       <workItem from="1408039905738" duration="179000" />
       <workItem from="1408040085742" duration="267000" />
       <workItem from="1408040353867" duration="10000" />
-      <workItem from="1408040364941" duration="2064000" />
+      <workItem from="1408040364941" duration="2658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2520000" />
+    <option name="totallyTimeSpent" value="3114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -414,7 +423,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="459">
           <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding />
+          <folding>
+            <marker date="1408040435184" expanded="true" signature="709:889" placeholder="..." />
+            <marker date="1408040435184" expanded="true" signature="730:869" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -422,7 +434,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="391">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding />
+          <folding>
+            <marker date="1408040435184" expanded="true" signature="709:889" placeholder="..." />
+            <marker date="1408040435184" expanded="true" signature="730:869" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -430,7 +445,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1408040435184" expanded="true" signature="709:889" placeholder="..." />
+            <marker date="1408040435184" expanded="true" signature="730:869" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -438,7 +456,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="898">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="10" />
-          <folding />
+          <folding>
+            <marker date="1408040435184" expanded="true" signature="709:889" placeholder="..." />
+            <marker date="1408040435184" expanded="true" signature="730:869" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -466,7 +487,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="71" max-vertical-offset="969">
           <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
-          <folding />
+          <folding>
+            <element signature="e#0#3662#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -496,7 +520,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
           <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-          <folding />
+          <folding>
+            <element signature="e#0#1714#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
